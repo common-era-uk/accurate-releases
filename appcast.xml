@@ -3,12 +3,12 @@
     <channel>
         <title>Accurate</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Thu, 03 Sep 2026 00:23:46 +0100</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Thu, 03 Sep 2026 16:33:57 +0100</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/common-era-uk/accurate-releases/releases/download/v1.0.2/Accurate-1.0.2.zip" length="4505910" type="application/octet-stream" sparkle:edSignature="N3nTclUuXQPNVMUTfXLiGPPCpB9O8iBGnwIaMLgYMwm5ZNuwUa6Kps/QwX77sgWbgKe2zzl6QEwvxD4hNfeCAA=="/>
+            <enclosure url="https://github.com/common-era-uk/accurate-releases/releases/download/v1.0.3/Accurate-1.0.3.zip" length="4506364" type="application/octet-stream" sparkle:edSignature="BZ+Pbz4gFxVHH3OITyyOAxx5R56KTiRAd6L/t9EejFFjKuVVPQ8yQjPdlY7peYqPzMy2ymmlar+ya+vWdOyOAw=="/>
         </item>
     </channel>
 </rss>
